@@ -1,0 +1,17 @@
+{
+    "server":{
+        "logfilename" : "server_system.log",
+        "serverPort" : "3000"
+    },
+    "database":{
+        "dbType" : "mongodb",
+        "dbHost" : "localhost",
+        "dbPort" : "27017",
+        "dbUserName":"ankush",
+        "dbPassword":"ankush",
+        "dbName":"EmployeeDB",
+        "testdbname":"EmployeeDB",
+        "tableName":"Employee"
+    }
+}
+
